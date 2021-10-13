@@ -1,2 +1,2 @@
 # Handwriting_RCNN
-Reference for OCR
+OCR for cursive handwriting
