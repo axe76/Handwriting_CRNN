@@ -8,6 +8,11 @@ The architecture 1st passes the input image into a series of Conv2D layers. The 
 Note: The text input to the decoder and outputs are tokenized and one-hot-encoded hence the loss used is categorical crossentropy rather than the CTC loss usually used for such tasks.<br>
 
 # Usage
+First Generate the labels:<br>
+```bash
+$ python3 label_gen.py 
+```
+
 To train the model:<br>
 ```bash
 $ python3 main.py 
