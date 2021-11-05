@@ -14,5 +14,7 @@ From line 159 in main.py onwards is the inference code which can be tested by se
 
 # Working
 Input image:<br>
+![test](https://user-images.githubusercontent.com/36445587/140475099-5ecc2970-ad13-4144-981d-14a59069dd40.png)
 
 Predicted output:<br>
+![pred](https://user-images.githubusercontent.com/36445587/140475556-db2f7153-53a1-4d9b-8693-05ea3932c5be.JPG)
